@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p {
+    background-color: rgb(236, 146, 161);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#element_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#element_3 {
+    font-size: 24px;
+}
+
+#element_4 {
+    background-color: rgb(86, 245, 86);
+    font-size: 24px;
+    font-weight: bold;
+}
